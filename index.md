@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Let's enjoy our project together
 
 You can use the [editor on GitHub](https://github.com/ThuyHienIT/casperjs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
